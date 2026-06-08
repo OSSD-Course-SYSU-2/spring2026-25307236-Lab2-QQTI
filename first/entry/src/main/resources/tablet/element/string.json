@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "QQTI人格分析系统 - 平板版"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "基于QQ数字特征的人格分析工具（平板版本）"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "QQTI分析(平板)"
+    }
+  ]
+}
